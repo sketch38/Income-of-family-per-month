@@ -1,0 +1,26 @@
+This program show the income of family per month in year 1998 to 2015
+Interface in left side show the satistics of 10 years in overall and in each Region.
+
+in setup() 
+set the value of variable.
+
+in draw()
+draw the data with function and called json file to put the name of distince in the map by mapping latitude and longtitude of that distince.
+
+in drawbox()
+write the graph of data which call from json file.
+
+in selectMode()
+make the menu in left side after the satistics when click the menu will change to that Region.
+
+in searchmin()
+use to find minimun cost of data to plot in graph make a graph dynamic.
+
+in searchmax()
+use to find maximun cost of data to plot in graph make a graph dynamic.
+
+in pointMap()
+use to point the menu when click will change the data and zoom the Region.
+
+in mousePressed()
+use to click in the menu
